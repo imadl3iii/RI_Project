@@ -1,0 +1,14 @@
+Requete test model boolean:
+preliminary and international or ((minimizing and clearance and not alphameric) or (algebraic and programming))
+
+Requete test model vectoriel:
+preliminary international minimizing clearance alphameric algebraic equivalence computers programming emphasis
+
+
+Partie evaluation Model vectoriel************************************************************
+Requete N°1 from query.text!
+===Post this on TextEdit===> articles exist deal tss time sharing system operating ibm computers + Push Button Recherche 
+===Post this NumReq on TextEdit===>  1 + Push Button Evaluation 
+Requete N°10 from query.text!
+===Post this on TextEdit===> parallel languages computation + Push Button Recherche
+===Post this NumReq on TextEdit===>  10 + Push Button Evaluation 

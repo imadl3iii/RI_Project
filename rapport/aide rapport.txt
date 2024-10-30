@@ -1,0 +1,8 @@
+Depuis X temps l'esprit humain tenté de mettre en place des systèmes pour faciliter l'accès aux différents objets (informations) dans son environnement, par exemple "l'organisation des livres dans une bibliothèque". de nos jours l'avancement de la technologie a donné naissance à une très grande branche pour faciliter l'accès aux objets cette branche est appelée La Recherche d’information.
+La Recherche d'Information (RI) est le domaine consistant à trouver un objet dans tout média pertinent pour répondre à la requête d'un utilisateur.
+La Recherche d’Information concerne la représentation, le stockage, l’organisation et l’accès aux sources d’information.
+
+Un Système de Recherche d’Information (SRI) est un programme
+(ensemble de programmes) informatique qui a pour but de
+sélectionner des informations pertinentes répondant à des
+besoins utilisateurs.
